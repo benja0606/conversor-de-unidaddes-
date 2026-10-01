@@ -26,7 +26,7 @@ Si es un proyecto web: Abre el archivo index.html en tu navegador.
 Si es un script (ej. Python): Ejecuta python main.py (o el archivo principal).
 
 ✒️ Autor
-Creado por https://github.com/benja0606
+Creado por benja0606
 
 🤝 Contribuciones
 Las contribuciones y sugerencias son bienvenidas. Puedes hacer un fork del repositorio y enviar un Pull Request con tus mejoras.
